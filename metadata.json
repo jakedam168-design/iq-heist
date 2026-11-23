@@ -1,0 +1,6 @@
+{
+  "name": "IQ HEIST: Cops & Robbers",
+  "description": "High-performance 3D multiplayer mobile landscape Cops & Robbers Prop Shift game built with Three.js, PeerJS WebRTC, and Web Audio API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
